@@ -1,23 +1,23 @@
 {
   "name": "react-native-sidebar",
-  "version": "0.2.1",
-  "description": "A react-native Animated based sidebar (aka drawer) solution.",
+  "version": "0.2.2",
+  "description": "A react-native Animated based sidebar (aka drawer) solution. forked",
   "main": "lib/index.js",
   "scripts": {
     "lint": "eslint lib test",
     "test": "mocha --recursive",
     "coverage": "istanbul cover ./node_modules/mocha/bin/_mocha --recursive"
   },
-  "author": "Christoph Jerolimov",
+  "author": "caspar forked from Christoph Jerolimov",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bringnow/react-native-sidebar.git"
+    "url": "git+https://github.com/bluelucifer/react-native-sidebar.git"
   },
   "bugs": {
-    "url": "https://github.com/bringnow/react-native-sidebar/issues"
+    "url": "https://github.com/bluelucifer/react-native-sidebar/issues"
   },
-  "homepage": "https://github.com/bringnow/react-native-sidebar#readme",
+  "homepage": "https://github.com/bluelucifer/react-native-sidebar#readme",
   "keywords": [
     "react-native",
     "react-component",
