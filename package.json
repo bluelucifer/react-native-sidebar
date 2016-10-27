@@ -1,6 +1,6 @@
 {
   "name": "react-native-sidebar",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "A react-native Animated based sidebar (aka drawer) solution. forked",
   "main": "lib/index.js",
   "scripts": {
